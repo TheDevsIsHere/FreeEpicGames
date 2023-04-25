@@ -22,6 +22,6 @@ This exe is designed for people like me who forget to clam the free games that e
 ## Why should I even bother claiming these free games?
 Simply because you can show that you have more games than your friends.
 
-# Meme
+# Meme ⬇️
 ![Ok is a meme](https://user-images.githubusercontent.com/99741291/234273051-a48cb522-d653-4d87-b752-3ce930119aaa.PNG)
 
