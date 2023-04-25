@@ -20,3 +20,6 @@ This exe is designed for people like me who forget to clam the free games that e
 
 ## Why should I even bother claiming these free games?
 Simply because you can show that you have more games than your friends.
+
+# Meme
+![0c2](https://user-images.githubusercontent.com/99741291/234272889-ce5a28d5-b6f9-4e6b-8f37-aef81aa04ed2.jpg)
