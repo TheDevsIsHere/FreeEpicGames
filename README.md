@@ -6,7 +6,7 @@ Currently working with no problem
 
 # Description
 Reminds you if there are free giveaways released by epic.
--Questo exe funzionerà solo su Window 10 e Window 11.
+-This exe will only work on Window 10 and Window 11.
 
 # Requirements 
 - No Special Requirements
@@ -22,4 +22,5 @@ This exe is designed for people like me who forget to clam the free games that e
 Simply because you can show that you have more games than your friends.
 
 # Meme
-![0c2](https://user-images.githubusercontent.com/99741291/234272889-ce5a28d5-b6f9-4e6b-8f37-aef81aa04ed2.jpg)
+![Ok is a meme](https://user-images.githubusercontent.com/99741291/234273051-a48cb522-d653-4d87-b752-3ce930119aaa.PNG)
+
