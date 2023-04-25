@@ -5,10 +5,11 @@ https://user-images.githubusercontent.com/99741291/234260233-74251cab-b305-4c05-
 Currently working with no problem
 
 # Description
-Reminds you if there are free giveaways released by epic 
+Reminds you if there are free giveaways released by epic.
+-Questo exe funzionerà solo su Window 10 e Window 11.
 
 # Requirements 
-- No Requirements
+- No Special Requirements
 
 # Instructions
 Just download the exe and place it into C:\Users\YOURUSERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
