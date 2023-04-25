@@ -15,5 +15,5 @@ Reminds you if there are free giveaways released by epic.
 Just download the exe and place it into C:\Users\YOURUSERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
 # FAQ
-Why i should use this exe?
-This exe is planned for people like me who forget to clam the free games that epic relase
+1)Why i should use this exe?
+2)This exe is planned for people like me who forget to clam the free games that epic relase
