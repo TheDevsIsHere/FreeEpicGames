@@ -17,7 +17,7 @@ Just download the exe and place it into C:\Users\YOURUSERNAME\AppData\Roaming\Mi
 
 # FAQ
 ## Why i should use this exe?
-This exe is designed for people like me who forget to clam the free games that epic releases.
+This exe is designed for people like me who forget to claim the free games that epic releases.
 
 ## Why should I even bother claiming these free games?
 Simply because you can show that you have more games than your friends.
