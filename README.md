@@ -7,6 +7,9 @@ Currently working with no problem
 # Description
 Reminds you if there are free giveaways released by epic 
 
-# Requirements for letting it work smoothly
-- Download the exe and place it into C:\Users\YOURUSERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+# Requirements 
+- No Requirements
+
+# Instructions
+Just download the exe and place it into C:\Users\YOURUSERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
