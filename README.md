@@ -9,6 +9,7 @@ Reminds you if there are free giveaways released by epic.
 **This exe will only work on Window 10 and Window 11.**
 
 # Requirements 
+~~Have a pc with internet access~~
 - No Special Requirements
 
 # Instructions
