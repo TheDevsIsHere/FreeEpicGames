@@ -1,6 +1,5 @@
 import pyautogui
 import subprocess
-import time
 import webbrowser
 import getpass
 import time
